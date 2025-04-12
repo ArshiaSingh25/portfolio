@@ -10,6 +10,9 @@ export default {
         mono: ['"JetBrains Mono"'],
       }
     },
+    colors: {
+      primary: '#4c2456', white: "#FFFFFF",
+    },
   },
   plugins: [],
 }

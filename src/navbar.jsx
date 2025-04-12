@@ -5,7 +5,7 @@ import Contact from './contact';
 
 const Navbar = () => {
   return (
-    <div className=' absolute top-8 right-14 flex space-x-6 text-2xl font-mono'>
+    <div className='text-white absolute top-8 right-14 flex space-x-6 text-2xl font-mono '>
      <Projects/>
      <Blogs/>
      <Contact/>
